@@ -1,0 +1,314 @@
+'s-Hertogenbosch | The Dutch Republic
+Aalst | The Spanish Netherlands
+Abergavenny | England
+Agrigento | The Kingdom of Sicily
+Aire-sur-la-Lys | The Spanish Netherlands
+Alhambra | The Spanish Empire
+Almodóvar del Campo | Spain
+Alvito | The Papal States
+Amboise | France
+Amersfoort | The Dutch Republic
+Amiens | France
+Amsterdam | The Dutch Republic
+Angers | France
+Anizy-le-Château | France
+Antwerpen | The Spanish Netherlands
+Aosta | The Holy Roman Empire
+Armentières | The Spanish Netherlands
+Arona | The Duchy of Milan
+Arras | France
+Asti | The Duchy of Savoy
+Ath | The Spanish Netherlands
+Augsburg | The Holy Roman Empire
+Autun | France
+Avesnes-sur-Helpe | France
+Avignon | The Papal States
+Baeza | Spain
+Balvano | The Kingdom of Naples
+Bapaume | France
+Basingstoke | England
+Bassano del Grappa | The Republic of Venice
+Beaumont | France
+Bergamo | The Republic of Venice
+Bergen op Zoom | The Dutch Republic
+Bergues | The Spanish Netherlands
+Beringen | The Spanish Netherlands
+Besançon | France
+Besse-et-Saint-Anastaise | France
+Biddulph | England
+Binche | The Spanish Netherlands
+Bologna | The Papal States
+Bonilla de la Sierra | Spain
+Bordeaux | France
+Borgloon | The Spanish Netherlands
+Bouillon | The Spanish Netherlands
+Bourges | France
+Braine-le-Comte | The Spanish Netherlands
+Bratton | England
+Brecht | The Spanish Netherlands
+Brecon | Wales
+Breda | The Dutch Republic
+Brescia | The Republic of Venice
+Brindisi | The Kingdom of Naples
+Bristol | England
+Brive-la-Gaillarde | France
+Brugge | The Spanish Netherlands
+Brussel | The Spanish Netherlands
+Burgos | Spain
+Bury St Edmunds | England
+Béthune | France
+Caen | France
+Cambrai | The Spanish Netherlands
+Campli | The Papal States
+Canterbury | England
+Capua | The Kingdom of Naples
+Cassel | The Spanish Netherlands
+Catania | The Kingdom of Sicily
+Cawthorne | England
+Charenton-le-Pont | France
+Charleville-Mézières | France
+Chartres | France
+Chièvres | The Spanish Netherlands
+Châlons-en-Champagne | France
+Châteaudun | France
+Clacton-on-Sea | England
+Como | The Duchy of Milan
+Cosenza | The Kingdom of Naples
+Couvin | The Spanish Netherlands
+Coventry | England
+Crespin | France
+Córdoba | Spain
+Daventry | England
+Derbyshire | England
+Devon | England
+Die | France
+Diest | The Spanish Netherlands
+Digne-les-Bains | France
+Dijon | France
+Dinant | The Spanish Netherlands
+Dinton | England
+Diss | England
+Dole | France
+Don Álvaro | Spain
+Dordrecht | The Dutch Republic
+Douai | The Spanish Netherlands
+Dublin | Ireland
+Durbuy | The Spanish Netherlands
+Elche | Spain
+Elda | Spain
+Erp | The Dutch Republic
+Estella | Spain
+Etwall | England
+Fara in Sabina | The Papal States
+Ferrara | The Duchy of Ferrara
+Firenze | The Grand Duchy of Tuscany
+Fiuggi | The Papal States
+Flines-lez-Raches | The Spanish Netherlands
+Fontaine-l'Évêque | Belgium
+Frameries | Belgium
+France | France
+Frankfurt am Main | The Holy Roman Empire
+Frasnes-lez-Anvaing | Belgium
+Frasnes-lez-Buissenal | Belgium
+Fribourg | Switzerland
+Froidchapelle | Belgium
+Gaeta | The Papal States
+Gaillimh | Ireland
+Gandia | Spain
+Genova | The Republic of Genoa
+Gent | The Spanish Netherlands
+Genève | Switzerland
+Geraardsbergen | Belgium
+Glasgow | Scotland
+Gorinchem | The Dutch Republic
+Granada | Spain
+Graz | The Holy Roman Empire
+Grottammare | The Papal States
+Guastalla | The Duchy of Parma
+Guise | France
+Halen | The Spanish Netherlands
+Halesworth | England
+Hangzhou | China
+Hasselt | The Spanish Netherlands
+Hastings | England
+Heidelberg | The Holy Roman Empire
+Henfield | England
+Hensies | The Spanish Netherlands
+Hermalle-sous-Argenteau | Belgium
+Hesdin | The Spanish Netherlands
+Hildesheim | The Holy Roman Empire
+Hilvarenbeek | The Dutch Republic
+Horley | England
+Horsham | England
+Hounslow | England
+Hull | England
+Hulst | The Spanish Netherlands
+Huntingdon | England
+Huy | The Spanish Netherlands
+Ieper | The Spanish Netherlands
+Ingolstadt | The Holy Roman Empire
+Innsbruck | The Holy Roman Empire
+Isny im Allgäu | The Holy Roman Empire
+Kempen | The Spanish Netherlands
+Kilkenny | Ireland
+Kortrijk | The Spanish Netherlands
+Köln | The Holy Roman Empire
+La Bassée | The Spanish Netherlands
+La Ferté-Alais | France
+Lancashire | England
+Landsberg am Lech | The Holy Roman Empire
+Laval | France
+Le Havre | France
+Leeuwarden | The Dutch Republic
+Lens | The Spanish Netherlands
+Leuven | The Spanish Netherlands
+Lichfield | England
+Lille | The Spanish Netherlands
+Lima | Peru
+Limoges | France
+Lincolnshire | England
+Lisbon | Portugal
+Liège | The Spanish Netherlands
+London | England
+Lyon | France
+Lübeck | The Holy Roman Empire
+Maastricht | The Dutch Republic
+Madrid | Spain
+Madrigal de las Altas Torres | Spain
+Mainz | The Holy Roman Empire
+Manchester | England
+Markdorf | The Holy Roman Empire
+Market Drayton | England
+Maubeuge | The Spanish Netherlands
+Mauléon-Licharre | France
+Mechelen | The Spanish Netherlands
+Medina del Campo | Spain
+Mende | France
+Metz | France
+Milano | The Duchy of Milan
+Mondoñedo | Spain
+Monreale | The Kingdom of Sicily
+Mons | The Spanish Netherlands
+Montilla | Spain
+Morpeth | England
+Morteau | France
+Moulins | France
+Mézières | The Spanish Netherlands
+München | The Holy Roman Empire
+Münster | The Holy Roman Empire
+Namur | The Spanish Netherlands
+Nancy | France
+Napoli | The Kingdom of Naples
+Nederhemert | The Dutch Republic
+Nieuwpoort | The Spanish Netherlands
+Nijmegen | The Dutch Republic
+Nivelles | The Spanish Netherlands
+Norfolk | England
+Northampton | England
+Noyon | France
+Nuenen | The Dutch Republic
+Nuremberg | The Holy Roman Empire
+Oostvleteren | The Spanish Netherlands
+Orchies | The Spanish Netherlands
+Orléans | France
+Otranto | The Kingdom of Naples
+Ourense | Spain
+Overijse | Belgium
+Oxford | England
+Padova | The Republic of Venice
+Palermo | The Kingdom of Sicily
+Paris | France
+Parma | The Duchy of Parma
+Pecquencourt | France
+Perth | Scotland
+Perugia | The Papal States
+Peterborough | England
+Pittem | The Spanish Netherlands
+Pont-à-Mousson | France
+Pontoise | France
+Potenza | The Kingdom of Naples
+Périgueux | France
+Raismes | The Spanish Netherlands
+Ranchicourt | France
+Regensburg | The Holy Roman Empire
+Reims | France
+Rethel | France
+Rimini | The Papal States
+Ripon | England
+Roanne | France
+Roeulx | The Spanish Netherlands
+Roma | The Papal States
+Rosenthal | The Holy Roman Empire
+Rouen | France
+Saffron Walden | England
+Sahagún | Spain
+Sainghin-en-Mélantois | France
+Saint-Lô | France
+Saint-Macaire | France
+Saint-Omer | The Spanish Netherlands
+Saint-Pol-sur-Ternoise | France
+Sainte-Menehould | France
+Saintes | France
+Salamanca | Spain
+Sales | France
+San Fratello | The Kingdom of Sicily
+San Severo | The Kingdom of Naples
+Santander | Spain
+Savennières | France
+Savona | The Republic of Genoa
+Schwäbisch Hall | The Holy Roman Empire
+Sedan | The Spanish Netherlands
+Segovia | Spain
+Sevilla | Spain
+Siena | The Grand Duchy of Tuscany
+Sint-Pieters-Leeuw | Belgium
+Sint-Truiden | The Spanish Netherlands
+Siracusa | The Kingdom of Sicily
+Soignies | The Spanish Netherlands
+Somerset | England
+Son | The Holy Roman Empire
+Soria | Spain
+Split | The Republic of Venice
+Staffordshire | England
+Stenay | The Spanish Netherlands
+Stourbridge | England
+Strasbourg | The Holy Roman Empire
+Stuttgart | The Holy Roman Empire
+Swindon | England
+Sézanne | France
+Tarbes | France
+Thuin | The Spanish Netherlands
+Tienen | The Spanish Netherlands
+Tivoli | The Papal States
+Toledo | Spain
+Toulouse | France
+Tournai | The Spanish Netherlands
+Tours | France
+Trani | The Kingdom of Naples
+Trawsfynydd | Wales
+Trier | The Holy Roman Empire
+Trittenheim | The Holy Roman Empire
+Troyes | France
+Utrecht | The Dutch Republic
+Valencia | The Kingdom of Spain
+Valenciennes | The Spanish Netherlands
+Valladolid | Spain
+Vatican City | The Papal States
+Venezia | The Republic of Venice
+Venlo | The Spanish Netherlands
+Veurne | The Spanish Netherlands
+Vienna | The Holy Roman Empire
+Vila do Conde | Portugal
+Villacastín | Spain
+Vouziers | France
+Warwick | England
+Waterford | Ireland
+West Grinstead | England
+Westkapelle | The Spanish Netherlands
+Wigan | England
+Worcester | England
+Würzburg | The Holy Roman Empire
+York | England
+Zierikzee | The Dutch Republic
+Zwolle | The Dutch Republic
+Épinal | France

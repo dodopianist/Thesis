@@ -1,0 +1,128 @@
+id,REL_PERS_REF_SURNAME,REL_PERS_REF_FIRST_NAME,Full Name,Birth Year,Birth Country,Birth Place,Death Year,Death Country,Death Place,approbator,archbishop/bishop,author,collaborator/contributor/signer,commentator/eulogist,compiler/editor/revisor,dedicatee,engraver/etcher/illustrator,heirs/widow,printer/publisher,translator,unspecified,DUTCH,ENGLISH,FRENCH,GERMAN,LATIN,SPANISH,1550s,1560s,1570s,1580s,1590s,1600s,1610s,1620s,1630s,1640s,1650s,Birth Region,Death Region,Printing House,House Origion,House Note,Gender,Most Involved Role,Most Involved Language,Most Involved Period
+116703,Puteanus,Erycius,Erycius Puteanus,1574.0,Netherlands,Venlo,1646.0,Belgium,Leuven,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+119252,Bogart,Jean II,Jean II Bogart,1561.0,Belgium,Leuven,1629.0,France,Douai,0,0,0,0,0,1,0,0,1,107,0,0,0,1,24,0,84,0,0,0,0,0,1,0,38,68,2,0,0,Low Countries,Low Countries,Bogart,Low Countries,,Male or Unspecified,printer/publisher,LATIN,1620s
+119282,Allen,William,William Allen,1532.0,Britain,Lancashire,1594.0,Italy,Roma,0,0,2,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,2,0,0,0,0,0,Britain,Italy,,,,Male or Unspecified,author,LATIN,1600s
+119375,Vervliet,Jan,Jan Vervliet,,,,,,,0,0,0,0,0,2,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,1,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,Multi
+119440,Heigham,John,John Heigham,,,,,,,0,0,1,0,0,4,0,0,0,27,5,0,0,27,0,0,2,0,0,0,0,0,0,4,21,3,1,0,0,,,English College Press,Britain,,Male or Unspecified,printer/publisher,ENGLISH,1610s
+119458,Cusack,Christopher,Christopher Cusack,1560.0,,,1624.0,,,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,,,,,,Male or Unspecified,Multi,Multi,Multi
+119493,Surius,Laurentius,Laurentius Surius,1523.0,Germany,Lübeck,1578.0,Germany,Köln,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,Holy Roman Empire,Holy Roman Empire,,,,Male or Unspecified,Multi,FRENCH,1600s
+119507,Gazet,Guillaume,Guillaume Gazet,1554.0,France,Aire-sur-la-Lys,1612.0,France,Arras,6,0,5,0,1,4,1,0,0,0,0,0,0,1,8,0,4,0,0,0,0,1,6,2,3,0,0,1,0,Low Countries,Low Countries,,,,Male or Unspecified,approbator,FRENCH,1590s
+119565,de Bassecourt,Claude,Claude de Bassecourt,,,,,,,0,0,0,0,1,1,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,,,,,,Male or Unspecified,translator,FRENCH,1590s
+119596,de Belleforest,François,François de Belleforest,1530.0,France,Hautes-Pyrénées,1583.0,France,Paris,0,0,0,0,1,1,0,0,0,0,4,0,0,0,6,0,0,0,0,0,1,1,1,2,0,1,0,0,0,France,France,,,,Male or Unspecified,translator,FRENCH,1600s
+119625,de Leuze,Nicolas,Nicolas de Leuze,,Belgium,Frasnes-lez-Buissenal,1598.0,,,2,0,0,0,0,6,0,0,0,0,4,0,0,0,9,0,3,0,0,0,3,1,3,3,1,1,0,0,0,Low Countries,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,Multi
+119636,Bristow,Richard,Richard Bristow,1538.0,Britain,Worcester,1581.0,,,0,0,3,0,0,1,0,0,0,0,0,0,0,1,0,0,3,0,0,0,1,0,0,1,2,0,0,0,0,Britain,,,,,Male or Unspecified,author,LATIN,1610s
+119648,du Crocquet,André,André du Crocquet,1540.0,France,Douai,1580.0,France,Valenciennes,0,0,3,0,0,1,1,0,0,0,1,0,0,0,0,0,5,0,0,0,4,0,0,0,1,0,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1570s
+119678,Hall,Richard,Richard Hall,,,,1604.0,France,Saint-Omer,2,0,7,0,0,2,0,0,0,0,0,0,0,0,2,0,9,0,0,0,1,5,4,1,0,0,0,0,0,,Low Countries,,,,Male or Unspecified,author,LATIN,1580s
+119688,de Ligne,Julien,Julien de Ligne,,,,,,,0,0,3,0,0,3,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,3,3,0,0,0,0,0,0,,,,,,Male or Unspecified,Multi,FRENCH,Multi
+119717,Chabanel,Jean,Jean Chabanel,1560.0,France,Toulouse,1620.0,France,Toulouse,0,0,0,0,0,1,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,France,France,,,,Male or Unspecified,translator,FRENCH,1590s
+119724,de Castro,Jean,Jean de Castro,1540.0,Belgium,Liège,1600.0,Germany,Köln,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Low Countries,Holy Roman Empire,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1610s
+119780,Marchant,Clément,Clément Marchant,,,,,,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,,,,,,Male or Unspecified,Multi,FRENCH,1590s
+119785,Colveneere,Georges,Georges Colveneere,1564.0,Belgium,Sint-Joris-Winge,1649.0,France,Douai,177,0,1,1,0,8,3,0,0,0,1,0,0,35,82,0,73,0,0,0,0,0,3,44,66,39,34,4,0,Low Countries,Low Countries,,,,Male or Unspecified,approbator,FRENCH,1610s
+119809,Benci,Francisco,Francisco Benci,,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,,,,,,Male or Unspecified,Multi,LATIN,1600s
+119818,d'Assignies,Jean,Jean d'Assignies,1560.0,Belgium,Bauffe,1642.0,,,0,0,11,0,0,2,0,0,0,0,5,0,0,0,12,0,5,0,0,0,0,0,3,1,1,5,6,1,0,Low Countries,,,,,Male or Unspecified,author,FRENCH,1630s
+119826,Solier,François,François Solier,1558.0,France,Brive-la-Gaillarde,1628.0,France,Saint-Macaire,0,0,0,0,0,3,0,0,0,0,22,0,0,0,12,0,10,0,0,0,0,0,6,10,3,2,1,0,0,France,France,,,,Male or Unspecified,translator,FRENCH,1600s
+119843,Caoult,Walrand,Walrand Caoult,,,,,,,0,0,3,0,0,1,0,0,0,0,4,0,0,0,6,0,2,0,0,0,0,0,0,8,0,0,0,0,0,,,,,,Male or Unspecified,translator,FRENCH,1600s
+119930,Gazet,Alard,Alard Gazet,1565.0,,,1626.0,France,Arras,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,,Low Countries,,,,Male or Unspecified,Multi,LATIN,Multi
+120062,Ottemberg,Hermann,Hermann Ottemberg,,,,1626.0,,,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,1,0,,,,,,Male or Unspecified,dedicatee,LATIN,Multi
+120069,Nemius,Gaspar,Gaspar Nemius,1586.0,Netherlands,'s-Hertogenbosch,1667.0,France,Cambrai,2,0,1,1,0,3,3,0,0,0,0,1,0,0,2,0,8,0,0,0,0,0,0,0,2,2,3,0,3,Low Countries,Low Countries,,,,Male or Unspecified,Multi,LATIN,Multi
+120226,Smith,Richard,Richard Smith,1567.0,Britain,Lincolnshire,1655.0,France,Paris,0,0,6,0,0,1,1,0,0,0,0,0,0,5,0,0,3,0,0,0,0,0,0,2,0,1,5,0,0,Britain,France,,,,Male or Unspecified,author,ENGLISH,1630s
+120228,Worthington,Thomas,Thomas Worthington,1549.0,Britain,Wigan,1626.0,Britain,Biddulph,0,0,7,0,0,1,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,0,3,1,4,0,0,0,Britain,Britain,,,,Male or Unspecified,author,ENGLISH,1620s
+120229,FitzSimon,Henry,Henry FitzSimon,1566.0,Ireland,Dublin,1643.0,Ireland,Kilkenny,0,0,3,0,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,3,0,0,0,0,Britain,Britain,,,,Male or Unspecified,author,Multi,1610s
+120256,Flinton,George,George Flinton,,,,1584.0,,,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,ENGLISH,1600s
+120257,Everard,Thomas,Thomas Everard,1560.0,Britain,Suffolk,1633.0,Britain,London,0,0,0,0,0,1,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,Britain,Britain,,,,Male or Unspecified,translator,ENGLISH,1600s
+120265,Maihew,Edward,Edward Maihew,1568.0,Britain,Dinton,1625.0,France,Cambrai,0,0,2,0,0,3,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,3,2,0,0,0,0,Britain,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1600s
+120268,Kellison,Matthew,Matthew Kellison,1561.0,Britain,Northamptonshire,1642.0,France,Douai,9,0,13,0,1,3,0,0,0,0,0,0,0,16,2,0,8,0,0,0,0,0,0,2,10,7,7,0,0,Britain,Low Countries,,,,Male or Unspecified,author,ENGLISH,1610s
+120271,Gibbons,Richard,Richard Gibbons,1553.0,,,1632.0,France,Douai,1,0,1,0,0,27,0,0,0,0,7,0,0,7,0,0,29,0,0,0,0,0,0,6,17,10,2,0,1,,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+120306,Almond,Oliver,Oliver Almond,,,,,,,0,0,1,0,0,3,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,ENGLISH,1620s
+120330,Batt,Antonie,Antonie Batt,,,,1651.0,,,0,0,2,0,0,2,0,0,0,0,3,0,0,7,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,,,,,,Male or Unspecified,translator,ENGLISH,1630s
+120390,Wadding,Luke,Luke Wadding,1588.0,Ireland,Waterford,1657.0,Italy,Roma,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Britain,Italy,,,,Male or Unspecified,Multi,Multi,Multi
+120411,Davenport,Christopher,Christopher Davenport,1595.0,Britain,Coventry,1680.0,,,0,0,6,0,0,1,0,0,0,0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,0,1,1,0,5,Britain,,,,,Male or Unspecified,author,LATIN,1650s
+120704,de Balinghem,Antoine,Antoine de Balinghem,1571.0,France,Saint-Omer,1630.0,France,Lille,0,0,17,0,0,2,0,0,0,0,15,0,0,0,20,0,12,0,0,0,0,0,1,6,6,15,4,0,0,Low Countries,Low Countries,,,,Male or Unspecified,author,FRENCH,1620s
+121128,Viel,Pierre,Pierre Viel,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1590s
+121129,Tigeou,Jean,Jean Tigeou,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1590s
+121131,Robin,Paschal,Paschal Robin,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1590s
+121507,Stellart,Prosper,Prosper Stellart,1589.0,Belgium,Tournai,1626.0,Italy,Gaeta,0,0,5,0,0,3,0,0,0,0,0,0,0,0,2,0,6,0,0,0,0,0,0,0,0,8,0,0,0,Low Countries,Italy,,,,Male or Unspecified,author,LATIN,1620s
+121764,d'Ennetières,Jean,Jean d'Ennetières,1590.0,Belgium,Tournai,1661.0,,,0,0,0,0,3,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,4,0,0,0,Low Countries,,,,,Male or Unspecified,commentator/eulogist,Multi,1620s
+121915,Rosweyde,Heribert,Heribert Rosweyde,1569.0,Netherlands,Utrecht,1629.0,Belgium,Antwerpen,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Low Countries,Low Countries,,,,Male or Unspecified,Multi,FRENCH,1630s
+122503,de Villers,Jean,Jean de Villers,1570.0,France,Mézières,1625.0,Belgium,Tournai,0,0,0,0,0,1,0,0,0,0,2,0,0,0,2,0,1,0,0,0,0,0,0,2,1,0,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,translator,FRENCH,1600s
+122619,Sfondrati,Niccolò,Niccolò Sfondrati,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1600s
+122624,Jurge,Antoine,Antoine Jurge,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1600s
+122650,de Sommal,Henri,Henri de Sommal,1533.0,Belgium,Dinant,1619.0,France,Valenciennes,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,8,15,7,5,1,0,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+122691,Lespagnol,Géry,Géry Lespagnol,,,,,,,0,0,6,0,0,4,0,0,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,2,2,2,2,2,,,,,,Male or Unspecified,author,LATIN,Multi
+122697,d'Outreman,Pierre,Pierre d'Outreman,1591.0,France,Valenciennes,1657.0,France,Valenciennes,0,0,0,0,0,1,0,0,0,0,5,0,0,1,2,0,3,0,0,0,0,0,0,0,1,1,0,3,1,Low Countries,Low Countries,,,,Male or Unspecified,translator,LATIN,1640s
+122715,Willot,Baudouin,Baudouin Willot,1585.0,Belgium,Binche,1663.0,France,Lille,0,0,0,0,0,2,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,1,2,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1620s
+122742,Le Maieur,Jean,Jean Le Maieur,1543.0,France,Béthune,1608.0,France,Douai,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,4,4,1,1,0,0,France,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,Multi
+122973,Manuzio,Paolo,Paolo Manuzio,,,,,,,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2,2,1,0,0,0,,,,,,Male or Unspecified,collaborator/contributor/signer,LATIN,Multi
+123324,Victorelli,Andrea,Andrea Victorelli,1580.0,Italy,Bassano del Grappa,1653.0,Italy,Roma,0,0,1,0,0,13,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,7,3,3,0,0,Italy,Italy,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+123361,Sylvius,François,François Sylvius,1581.0,Belgium,Braine-le-Comte,1649.0,France,Douai,7,0,24,1,0,11,2,0,0,0,1,1,0,0,8,0,38,0,0,0,0,0,0,2,5,15,14,9,1,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1620s
+123382,Hendricq,François,François Hendricq,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,ENGLISH,1630s
+123610,Zengelbeeck,Jean,Jean Zengelbeeck,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+123673,Van Couverden,Théodore,Théodore Van Couverden,,,,1657.0,,,39,0,3,1,0,1,0,0,0,0,0,0,0,1,22,0,21,0,0,0,0,0,0,0,0,5,12,13,14,,,,,,Male or Unspecified,approbator,FRENCH,1650s
+123706,Du Val,André,André Du Val,1564.0,France,Pontoise,1638.0,France,Paris,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,France,France,,,,Male or Unspecified,Multi,FRENCH,Multi
+123724,Jones,John,John Jones,1575.0,Britain,Llanfrynach,1635.0,Britain,London,14,0,1,1,0,11,0,0,0,0,0,0,0,6,4,0,14,0,0,0,0,0,0,0,8,9,7,0,0,Britain,Britain,,,,Male or Unspecified,approbator,LATIN,1620s
+123754,Gallemart,Jean,Jean Gallemart,,Belgium,Frameries,1625.0,France,Douai,1,0,1,0,0,4,0,0,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,1,3,2,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+123755,de Raisse,Arnould,Arnould de Raisse,,France,Douai,1644.0,France,Douai,0,0,14,0,0,3,0,0,0,0,3,0,0,0,3,0,17,0,0,0,0,0,0,0,0,10,8,2,0,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1620s
+123758,Bernard,Nicolas,Nicolas Bernard,,,,,,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,1,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,Multi
+123770,Hoppers,Gregorius,Gregorius Hoppers,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1600s
+123771,Hoppers,Gajus Antonius,Gajus Antonius Hoppers,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1600s
+123782,Peeters,Barthélémy,Barthélémy Peeters,1545.0,Belgium,Oplinter,1630.0,France,Douai,55,0,7,1,0,6,0,0,0,0,0,0,0,2,36,0,30,0,0,0,0,0,13,27,15,10,3,0,0,Low Countries,Low Countries,,,,Male or Unspecified,approbator,FRENCH,1600s
+123812,Choquet,François-Hyacinthe,François-Hyacinthe Choquet,1580.0,France,Lille,1645.0,Belgium,Antwerpen,0,0,5,0,0,1,0,0,0,0,2,0,0,0,1,0,6,0,0,0,0,0,0,0,2,4,1,0,0,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1620s
+123869,Halloix,Pierre,Pierre Halloix,1571.0,Belgium,Liège,1656.0,Belgium,Liège,0,0,6,0,0,1,0,0,0,0,1,0,0,0,1,0,7,0,0,0,0,0,0,0,4,2,2,0,0,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1610s
+123876,de Soto,Domingo,Domingo de Soto,1495.0,Spain,Segovia,1560.0,Spain,Salamanca,0,0,7,0,0,1,0,0,0,0,0,0,0,0,0,0,8,0,0,4,0,0,0,0,2,2,0,0,0,Iberian Union,Iberian Union,,,,Male or Unspecified,author,LATIN,1560s
+123905,Aurifico,Niccolò,Niccolò Aurifico,1529.0,,,1603.0,,,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,1,1,0,2,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124026,Calander,Georgius,Georgius Calander,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+124126,Balduin,Moreau,Moreau Balduin,,,,,,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124192,Feyens,Thomas,Thomas Feyens,1567.0,,,1631.0,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+124196,Lespagnol,Antoine,Antoine Lespagnol,,,,,,,0,0,5,0,0,2,0,0,0,0,2,0,0,0,2,0,5,0,0,0,0,0,0,0,5,1,1,0,0,,,,,,Male or Unspecified,author,LATIN,1610s
+124255,Barnes,John,John Barnes,1581.0,Britain,Norfolk,1661.0,Italy,Roma,0,0,5,0,0,3,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,7,1,0,0,0,Britain,Italy,,,,Male or Unspecified,author,LATIN,1610s
+124256,Tossinianensis,Petrus,Petrus Tossinianensis,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124260,Soteaulx,Jean,Jean Soteaulx,,,,1567.0,,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,2,2,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,Multi
+124261,Lenglet,Augustin,Augustin Lenglet,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124267,de Barnuevo,Gonzalo,Gonzalo de Barnuevo,,,,,,,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,2,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+124274,Thieulaine,Maximilien,Maximilien Thieulaine,,,,,,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124285,Valdesius,Jacobus,Jacobus Valdesius,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124308,Hudleston,Richard,Richard Hudleston,1583.0,Britain,Lancashire,1655.0,,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,Britain,,,,,Male or Unspecified,Multi,LATIN,1610s
+124314,Dausque,Claude,Claude Dausque,1566.0,France,Saint-Omer,1644.0,Belgium,Tournai,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,1,1,0,Low Countries,Low Countries,,,,Male or Unspecified,author,LATIN,1610s
+124331,Van Cuyck,Hendrik,Hendrik Van Cuyck,1546.0,,,1609.0,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124383,Donvanus,Patricius,Patricius Donvanus,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124486,Gambier,Antoine,Antoine Gambier,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1610s
+124599,Anglus,Maurus,Maurus Anglus,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+124657,Goffar,Antoine,Antoine Goffar,,,,,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,,,,,,Male or Unspecified,Multi,LATIN,1630s
+124677,Loth,Louis-Bertrand,Louis-Bertrand Loth,,France,Saint-Omer,1652.0,France,Saint-Omer,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,3,0,2,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+124687,de Beauchamps,Raphael,Raphael de Beauchamps,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+124701,White,William,William White,,,,,,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+124740,Petit,Philippe,Philippe Petit,1598.0,,,1671.0,,,0,0,5,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,2,1,3,,,,,,Male or Unspecified,author,FRENCH,1650s
+124839,d'Espières,Jean,Jean d'Espières,,,,,,,1,0,5,0,1,1,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,4,4,,,,,,Male or Unspecified,author,LATIN,Multi
+124864,Galopin,Georges,Georges Galopin,1600.0,Belgium,Mons,1657.0,France,Douai,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Low Countries,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1640s
+124991,Pocquelin,Alexandre,Alexandre Pocquelin,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1620s
+125020,de La Mote,Jean,Jean de La Mote,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1590s
+125200,Chamart,Nicolas,Nicolas Chamart,1620.0,,,1699.0,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+126646,Ouwerx,Jean,Jean Ouwerx,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+126911,Lipsius,Justus,Justus Lipsius,1547.0,Belgium,Overijse,1606.0,Belgium,Leuven,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,2,3,0,0,0,Low Countries,Low Countries,,,,Male or Unspecified,Multi,LATIN,1620s
+126946,Stadius,Joannes,Joannes Stadius,1527.0,Belgium,Loenhout,1579.0,France,Paris,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Low Countries,France,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+127842,Raynaud,Théophile,Théophile Raynaud,1587.0,,,1663.0,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+128769,D.H.,I.,I. D.H.,,,,,,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,,,,,,Male or Unspecified,Multi,FRENCH,1610s
+128958,Steuvechius,Godescalchi,Godescalchi Steuvechius,,,,,,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,,,,,,Male or Unspecified,Multi,LATIN,1630s
+129276,D.,P.,P. D.,,,,,,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1630s
+129526,Rainolds,William,William Rainolds,1544.0,,,1594.0,Belgium,Antwerpen,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Low Countries,,,,Male or Unspecified,compiler/editor/revisor,ENGLISH,1600s
+129527,Hughes,Edward,Edward Hughes,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,ENGLISH,1610s
+129706,M.,L.,L. M.,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1620s
+138454,Pighius,Stephanus Wijnand,Stephanus Wijnand Pighius,,,,,,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,Multi
+142663,Nutius,Martinus I,Martinus I Nutius,,,,1558.0,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,,,Nutius,Low Countries,founder,Male or Unspecified,Multi,SPANISH,1560s
+152864,Joly,Claude,Claude Joly,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1620s
+154731,Lutius,Horatius,Horatius Lutius,,,,,,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+155742,Diaz,Damianus,Damianus Diaz,,,,,,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1570s
+155926,Junius,Adrianus,Adrianus Junius,,,,,,,0,0,3,0,0,5,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,6,1,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1610s
+156116,Rastelli,Raphael,Raphael Rastelli,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,FRENCH,1620s
+156254,Rollin,Claude,Claude Rollin,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+156674,De Mares,P.,P. De Mares,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+157587,"Poelma,",Theodor,"Theodor Poelma,",,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1560s
+157654,von Veltkirch,Johann Toltz,Johann Toltz von Veltkirch,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1560s
+157691,Tilmann,Godefroy,Godefroy Tilmann,,,,,,,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,,,,,,Male or Unspecified,Multi,LATIN,Multi
+165756,Navigerus,Andreus,Andreus Navigerus,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+165757,Morillonus,Guido,Guido Morillonus,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+165758,de Reyger,Arnoldus,Arnoldus de Reyger,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1630s
+165762,Dousa,Janus (Filio),Janus (Filio) Dousa,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+165802,Malapertus,Carolus,Carolus Malapertus,,,,,,,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,Multi
+165807,Rader,Matthäus,Matthäus Rader,,,,,,,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2,0,0,0,,,,,,Male or Unspecified,compiler/editor/revisor,LATIN,1620s
+172575,Gravius,Henricus,Henricus Gravius,1536.0,,,1591.0,,,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,Male or Unspecified,Multi,LATIN,1600s
