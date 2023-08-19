@@ -11,6 +11,9 @@ Read the whole paper [here](https://github.com/dodopianist/Thesis/blob/main/Thes
 
 ## Files
 [code&data](https://github.com/dodopianist/Thesis/tree/main/code%26data): all of the codes I wrote for the thesis, and all of the data I used and constructed. The data file in the "sna" folder are the nodes and edges I created to build the Networks.
+
 [gephi](https://github.com/dodopianist/Thesis/tree/main/gephi): all of the gephi files I used for the thesis. You can find almost all of the Networks in this folder.
+
 [graph](https://github.com/dodopianist/Thesis/tree/main/graph): all of the original graphs in my paper.
+
 [latex](https://github.com/dodopianist/Thesis/tree/main/latex): the original latex file.
