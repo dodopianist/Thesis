@@ -10,7 +10,7 @@ The results show that Social Network Analysis is indeed worthy of application in
 Read the whole paper [here](https://github.com/dodopianist/Thesis/blob/main/Thesis_Ching-Han.pdf).
 
 ## Files
-[code&data](https://github.com/dodopianist/Thesis/tree/main/code%26data): all of the codes I wrote for the thesis, and all of the data I used and constructed. The data file in the "sna" folder are the nodes and edges I created to build the Networks.
+[code&data](https://github.com/dodopianist/Thesis/tree/main/code%26data): all of the codes I wrote for the thesis, and all of the data I used and constructed. The data file in the "sna" folder are the nodes and edges I created to build the Networks. \* Please note that the copyright of the original dataset belongs to KU Leuven, as a result, it is not put here. In addition, these CSVs are extrated and organised from the original dataset. Thereforem please ask for our permission if you want to re-use them. Otherwise, you can also access the database through the official KU Leuven gateway [here](https://www.arts.kuleuven.be/nieuwetijd/english/odis/ICC_search).
 
 [gephi](https://github.com/dodopianist/Thesis/tree/main/gephi): all of the gephi files I used for the thesis. You can find almost all of the Networks in this folder.
 
