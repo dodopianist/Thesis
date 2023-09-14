@@ -1,4 +1,4 @@
-# Exploiting Social Network Analysis on Historical Databases
+# Social Network Analysis on Historical Databases
 
 Final Score: 17/20.
 
