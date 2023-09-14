@@ -1,5 +1,7 @@
 # Exploiting Social Network Analysis Historical Databases
 
+Final Score: 17/20.
+
 ## Summary
 One of the important missions of the field of Digital Humanities is to integrate quantitative research methods into subjects within the Humanities. Social Network Analysis, which originated in Mathematics, has been extended to the fields of Social Science, as well as Humanities such as Linguistics and Literature. However, History appears to adopt this research method at a slower pace. Therefore, the purpose of this research is to comprehend the capabilities and constraints of Social Network Analysis in historical research.
 
