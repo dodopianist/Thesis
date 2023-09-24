@@ -1,5 +1,10 @@
 # Social Network Analysis on Historical Databases
 
+By Ching-Han Kuo
+Supervisor: Prof. dr. Margherita Fantoli
+Co-supervisor: Prof. dr. Violet Soen
+Daily Advisor: Rossana Scebba
+
 Final Grade: 17/20.
 
 ## Summary
