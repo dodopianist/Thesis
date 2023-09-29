@@ -18,7 +18,7 @@ This research employs Social Network Analysis on a historical dataset, ’Duacen
 
 The results show that Social Network Analysis is indeed worthy of application in fu- ture historical research. Its visualisation ability can be powerful in showcasing historical migration or clustering historical connections. Additionally, its metrics, when combined with statistical analysis, can provide scientific evidence that bolsters historians’ observa- tions and statements. Nonetheless, applying Social Network Analysis requires sufficient data, and in the case of historical data, some may be missing due to age. Consequently, in comparison to modern databases, outcomes of Social Network Analysis from historical data could be more inferential and need to be interpreted with cautious consideration of potential gaps and limitations stemming from incomplete or aged records.
 
-Read the whole paper [here](https://github.com/dodopianist/Thesis/blob/main/Thesis_Ching-Han.pdf).
+Read the whole paper [here](https://raw.githack.com/dodopianist/Thesis/main/Thesis_Ching-Han.pdf).
 
 ## Files
 [code&data](https://github.com/dodopianist/Thesis/tree/main/code%26data): all of the codes I wrote for the thesis, and all of the data I used and constructed. The data file in the "sna" folder are the nodes and edges I created to build the Networks.
